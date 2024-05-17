@@ -1,0 +1,24 @@
+﻿<Page x:Class="rabota.Pages.RegistrationPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:rabota.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="RegistrationPage">
+
+    <Grid>
+        <StackPanel>
+            <Label Content="Логин"/>
+            <TextBox x:Name="username"/>
+            <Label Content="Пароль"/>
+            <PasswordBox x:Name="password"/>
+            <Label Content="Повторите Пароль"/>
+            <PasswordBox x:Name="passwordConfirm"/>
+            <Button x:Name="registration" Content="Зарегистрироваться" Click="registration_Click" />
+            <Button x:Name="Cancel" Content="Выйти" Click="Cancel_Click" />
+        </StackPanel>
+
+    </Grid>
+</Page>

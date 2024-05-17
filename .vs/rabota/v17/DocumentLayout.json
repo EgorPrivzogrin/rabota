@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|c:\\users\\nezuk_0\\desktop\\rabota\\rabota\\rabota\\pages\\edituserpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|solutionrelative:rabota\\pages\\edituserpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|c:\\users\\nezuk_0\\desktop\\rabota\\rabota\\rabota\\pages\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|solutionrelative:rabota\\pages\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|c:\\users\\nezuk_0\\desktop\\rabota\\rabota\\rabota\\pages\\edituserpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|solutionrelative:rabota\\pages\\edituserpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|c:\\users\\nezuk_0\\desktop\\rabota\\rabota\\rabota\\pages\\infouserpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|solutionrelative:rabota\\pages\\infouserpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|c:\\users\\nezuk_0\\desktop\\rabota\\rabota\\rabota\\pages\\infouserpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|solutionrelative:rabota\\pages\\infouserpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|c:\\users\\nezuk_0\\desktop\\rabota\\rabota\\rabota\\pages\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|solutionrelative:rabota\\pages\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|c:\\users\\nezuk_0\\desktop\\rabota\\rabota\\rabota\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|solutionrelative:rabota\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|c:\\users\\nezuk_0\\desktop\\rabota\\rabota\\rabota\\pages\\inforolepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|solutionrelative:rabota\\pages\\inforolepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|c:\\users\\nezuk_0\\desktop\\rabota\\rabota\\rabota\\pages\\inforolepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|solutionrelative:rabota\\pages\\inforolepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|c:\\users\\nezuk_0\\desktop\\rabota\\rabota\\rabota\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|solutionrelative:rabota\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|c:\\users\\nezuk_0\\desktop\\rabota\\rabota\\rabota\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|solutionrelative:rabota\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|c:\\users\\nezuk_0\\desktop\\rabota\\rabota\\rabota\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|solutionrelative:rabota\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|c:\\users\\nezuk_0\\desktop\\rabota\\rabota\\rabota\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|solutionrelative:rabota\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|c:\\users\\nezuk_0\\desktop\\rabota\\rabota\\rabota\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|solutionrelative:rabota\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|c:\\users\\nezuk_0\\desktop\\rabota\\rabota\\rabota\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{F863AB43-1E91-4D9C-A0A2-445EC23EFD25}|rabota\\rabota.csproj|solutionrelative:rabota\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A79398-ABF5-43AD-BBDA-BD7146B131B4}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\nezuk_0\\desktop\\rabota\\rabota\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A79398-ABF5-43AD-BBDA-BD7146B131B4}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 655,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pages\\EditUserPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\Pages\\EditUserPage.xaml.cs",
+              "RelativeDocumentMoniker": "rabota\\Pages\\EditUserPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\Pages\\EditUserPage.xaml.cs",
+              "RelativeToolTip": "rabota\\Pages\\EditUserPage.xaml.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAuwD8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:31:36.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pages\\RegistrationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\Pages\\RegistrationPage.xaml.cs",
+              "RelativeDocumentMoniker": "rabota\\Pages\\RegistrationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\Pages\\RegistrationPage.xaml.cs",
+              "RelativeToolTip": "rabota\\Pages\\RegistrationPage.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAIAywDAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:27:27.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pages\\InfoRolePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\Pages\\InfoRolePage.xaml.cs",
+              "RelativeDocumentMoniker": "rabota\\Pages\\InfoRolePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\Pages\\InfoRolePage.xaml.cs",
+              "RelativeToolTip": "rabota\\Pages\\InfoRolePage.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAlwB4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:25:27.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pages\\InfoUserPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\Pages\\InfoUserPage.xaml.cs",
+              "RelativeDocumentMoniker": "rabota\\Pages\\InfoUserPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\Pages\\InfoUserPage.xaml.cs",
+              "RelativeToolTip": "rabota\\Pages\\InfoUserPage.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAtwCkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:18:49.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "rabota\\Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "rabota\\Pages\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T10:07:04.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InfoUserPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\Pages\\InfoUserPage.xaml",
+              "RelativeDocumentMoniker": "rabota\\Pages\\InfoUserPage.xaml",
+              "ToolTip": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\Pages\\InfoUserPage.xaml",
+              "RelativeToolTip": "rabota\\Pages\\InfoUserPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T10:07:13.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\Pages\\RegistrationPage.xaml",
+              "RelativeDocumentMoniker": "rabota\\Pages\\RegistrationPage.xaml",
+              "ToolTip": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\Pages\\RegistrationPage.xaml",
+              "RelativeToolTip": "rabota\\Pages\\RegistrationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T10:07:43.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditUserPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\Pages\\EditUserPage.xaml",
+              "RelativeDocumentMoniker": "rabota\\Pages\\EditUserPage.xaml",
+              "ToolTip": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\Pages\\EditUserPage.xaml",
+              "RelativeToolTip": "rabota\\Pages\\EditUserPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T10:07:34.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InfoRolePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\Pages\\InfoRolePage.xaml",
+              "RelativeDocumentMoniker": "rabota\\Pages\\InfoRolePage.xaml",
+              "ToolTip": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\Pages\\InfoRolePage.xaml",
+              "RelativeToolTip": "rabota\\Pages\\InfoRolePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T10:07:22.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "rabota\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\MainWindow.xaml.cs",
+              "RelativeToolTip": "rabota\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAtwCAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:59:23.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "rabota\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\MainWindow.xaml",
+              "RelativeToolTip": "rabota\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T09:59:24.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "singleton.cs",
+              "DocumentMoniker": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\singleton.cs",
+              "RelativeDocumentMoniker": "rabota\\singleton.cs",
+              "ToolTip": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\singleton.cs",
+              "RelativeToolTip": "rabota\\singleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:06:53.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\Model1.edmx",
+              "RelativeDocumentMoniker": "rabota\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "rabota\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-05-17T10:08:34.936Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "rabota\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\Model1.Context.cs",
+              "RelativeToolTip": "rabota\\Model1.Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:09:09.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pages\\LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "rabota\\Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\rabota\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "rabota\\Pages\\LoginPage.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAD4vzAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:12:39.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\Users\\Nezuk_0\\Desktop\\rabota\\rabota\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:06:43.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
